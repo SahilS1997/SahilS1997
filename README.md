@@ -1,63 +1,201 @@
-![Banner](assets/banner.svg)
+# Sahil Sreedharan | Data Analytics & BI Professional
 
-[![Followers](https://img.shields.io/github/followers/SahilS1997?style=social)](https://github.com/SahilS1997) [![GitHub stars](https://img.shields.io/github/stars/SahilS1997?style=social)](https://github.com/SahilS1997?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilS1997&layout=compact&theme=tokyonight)](https://github.com/SahilS1997)
-
-# Sahil S — Certified Data Analytics Professional 👋
-
-A seasoned Business Intelligence and Data Analytics expert with a unique background, transitioning from a distinguished career in cricket to becoming a leader in the data realm. I specialize in delivering tailored Data Analytics and Business Intelligence consulting across industries, with additional expertise in Sports Management and Analytics (Cricket).
-
----
-
-## Core Expertise
-
-- Data Visualization: Impactful, interactive dashboards and reports using Power BI, including Semantic Models and enterprise reporting within Microsoft Fabric.
-- Data Engineering: Scalable ETL pipelines using Azure Data Factory and Azure Synapse Analytics; Microsoft Fabric Data Factory, Lakehouse, and Data Warehouse solutions.
-- Data Analysis & Process Automation: Python and Power Automate for insights and workflow automation across modern analytics platforms.
-- Data Governance & Delivery: Implementation of secure, enterprise-grade data solutions — governance across OneLake, workspace management, access control, and delivery.
-- Microsoft Fabric: End-to-end expertise across OneLake, Lakehouse, Data Warehouse, Data Factory, Real-Time Analytics, Dataflows Gen2, Notebooks, Pipelines, and Semantic Models.
-- Application Development: Building user-centric solutions using Power Apps.
-
-## Technical Proficiency
-
-- Databases: T-SQL, MySQL, PostgreSQL, MongoDB, Oracle, SAP HANA
-- Visualization: Power BI, Google Data Studio, Tableau (Power BI integration within Microsoft Fabric)
-- Programming & Automation: Python, VBA (Advanced Excel), Power Automate, Power Query
-- Cloud & Analytics: Azure Synapse, Azure Data Factory, Microsoft Fabric, OneLake, Lakehouse, Dataflows Gen2, Notebooks, Pipelines
-- Spreadsheets: Advanced Excel (VBA, Power Query), Google Sheets, Zoho Sheets
-
-## Selected Services
-
-- BI & Analytics Consulting: Strategy, architecture, and delivery of enterprise reporting platforms.
-- End-to-end Fabric Enablement: Lakehouse, semantic modeling, real-time analytics, and secure data delivery.
-- Sports Analytics (Cricket): Performance analysis, metrics design, and analytics pipelines for sports teams and organizations.
+<div align="center">
+  
+  <!-- Professional Banner -->
+  <img src="https://via.placeholder.com/1200x300/0078D4/FFFFFF?text=Data+Analytics+%26+Business+Intelligence+Expert" alt="Professional Banner" width="100%">
+  
+  <!-- Profile Image -->
+  <img src="https://via.placeholder.com/150/0078D4/FFFFFF?text=Sahil+Sreedharan" alt="Sahil Sreedharan" width="150" height="150" style="border-radius: 50%; border: 3px solid #0078D4;">
+  
+  ### 🎓 Certified Data Analytics Professional | 📊 BI Expert | 🚀 Data Engineer
+  
+  *Transforming data into actionable insights | Former Cricket Professional → Data Leader*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sreedhar/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilS1997)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahils1997@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/SahilS1997)
+  
+</div>
 
 ---
 
-## Projects & Highlights
+## 👨‍💼 About Me
 
-- [Example Fabric PoC](https://github.com/SahilS1997/example-fabric-poc) — Semantic model + enterprise reporting flow.
-- [Cricket Analytics Pipeline](https://github.com/SahilS1997/cricket-analytics) — ETL + dashboards for match and player analytics.
+A seasoned **Business Intelligence and Data Analytics expert** with a unique background, transitioning from a distinguished career in cricket to becoming a leader in the data realm. I specialize in delivering tailored **Data Analytics and Business Intelligence consulting** across industries, with additional expertise in **Sports Management and Analytics**.
 
-## GitHub Stats
-
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilS1997&show_icons=true&theme=tokyonight)](https://github.com/SahilS1997)
-
----
-
-## Contact & Work With Me
-
-- Email: your.email@example.com
-
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-
-<!-- README_UPDATED -->Last updated: 2026-05-31 12:16 UTC<!-- README_UPDATED_END -->
+- 📍 **Location:** Kerala, India  
+- 🌐 **Timezone:** UTC +05:30 (IST)  
+- 💼 **Open to:** Data Analytics, BI, and Data Engineering Opportunities  
+- 🏆 **Unique Background:** Former Cricket Professional → Data Analytics Leader  
+- 🎮 **Passion:** Sports Analytics & Cricket Data Science
 
 ---
 
-If you'd like, I can:
-- Add themed badges (dark/light/neon/pastel).
-- Generate live cards (streaks, languages) and a GitHub Action to update README on a schedule.
-- Create social banner sizes or animated SVGs for your profile and socials.
-+
-Tell me which of those you'd like next and I will add them.
+## 🎯 Core Expertise
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 Data Visualization & Analytics</h3>
+      <p>Interactive dashboards & reports with Power BI, Semantic Models, Enterprise Reporting</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔄 Data Engineering & ETL</h3>
+      <p>Scalable pipelines with Azure Data Factory, Synapse, Microsoft Fabric</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐍 Data Analysis & Automation</h3>
+      <p>Python analytics, Power Automate, Process Automation</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔐 Data Governance & Security</h3>
+      <p>Enterprise solutions, OneLake, Access Control, Secure Architecture</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Stack
+
+### **Cloud & Platforms**
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=power-apps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=flat-square&logo=power-automate&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![M%20Language](https://img.shields.io/badge/M%20Language-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🏗️ Microsoft Fabric Expertise
+
+```
+┌─────────────────────────────────────────────┐
+│         Microsoft Fabric Ecosystem           │
+├─────────────────────────────────────────────┤
+│  • OneLake & Data Lake Storage              │
+│  • Lakehouse & Data Warehouse               │
+│  • Data Factory & ETL Pipelines             │
+│  • Real-Time Analytics                      │
+│  • Dataflows Gen2 & Notebooks               │
+│  • Semantic Models & Power BI Integration   │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 📚 Featured Expertise Areas
+
+### **Data Visualization & Business Intelligence**
+- 🎨 Impactful, interactive dashboards and reports using **Power BI**
+- 📊 Semantic Models and enterprise reporting within **Microsoft Fabric**
+- 📈 Advanced data visualization techniques for stakeholder communication
+
+### **Data Engineering & Integration**
+- 🔄 Scalable ETL pipelines using **Azure Data Factory** and **Azure Synapse Analytics**
+- 🏗️ **Microsoft Fabric Data Factory**, Lakehouse, and Data Warehouse solutions
+- ⚡ Real-time data pipelines and streaming architectures
+
+### **Data Analysis & Automation**
+- 🐍 Python-based data analysis and statistical modeling
+- 🤖 **Power Automate** for workflow automation and insights delivery
+- ⚙️ Process automation across modern analytics platforms
+
+### **Data Governance & Security**
+- 🔐 Enterprise-grade data solutions and governance frameworks
+- 🔑 OneLake, workspace management, access control, and delivery
+- 🛡️ Secure, scalable data architecture design
+
+### **Application Development**
+- 📱 Building user-centric solutions using **Power Apps**
+- 💼 Full-stack analytics applications
+- 🔄 Business process automation
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilS1997&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilS1997&layout=compact&theme=dark&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilS1997&theme=dark)
+
+</div>
+
+---
+
+## 💼 Professional Background
+
+### **Career Highlights**
+- ✨ Transitioned from professional cricket to Data Analytics leadership
+- 🏆 Expertise in enterprise-scale data solutions
+- 🌍 Cross-industry consulting experience
+- 📊 Specialized in Sports Analytics & Cricket Data Science
+
+### **Industries Served**
+- 🏢 Enterprise Technology
+- 🎮 Sports & Recreation
+- 📈 Financial Services
+- 🛒 Retail & E-commerce
+- 🏥 Healthcare & Life Sciences
+
+---
+
+## 🎓 Always Learning
+
+Passionate about staying updated with:
+- ☁️ Cloud data platforms and architectures
+- 🤖 Advanced analytics and AI/ML integration
+- 🔒 Data governance and security best practices
+- 📊 Modern business intelligence methodologies
+- 🚀 Emerging data technologies
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [Sahil Sreedharan](https://www.linkedin.com/in/sahil-sreedhar/) |
+| 📧 **Email** | [sahils1997@gmail.com](mailto:sahils1997@gmail.com) |
+| 🐦 **Twitter** | [@sahilsr1997](https://twitter.com/sahilsr1997) |
+| 🌐 **GitHub** | [SahilS1997](https://github.com/SahilS1997) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Let's build something amazing with data!
+
+**"Data is the new oil, and insights are the fuel for innovation."**
+
+---
+
+![Footer Banner](https://via.placeholder.com/1200x100/0078D4/FFFFFF?text=Happy+Coding+%7C+Data+Driven+Decisions)
+
+</div>
