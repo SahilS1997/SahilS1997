@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1584" height="396" rx="12" fill="url(#g3)"/>
+  <g font-family="Inter, Roboto, Arial, sans-serif" fill="#fff">
+    <text x="60" y="180" font-size="56" font-weight="700">Sahil S — Data Analytics</text>
+    <text x="60" y="240" font-size="20" opacity="0.95">Business Intelligence • Microsoft Fabric • Sports Analytics</text>
+  </g>
+</svg>

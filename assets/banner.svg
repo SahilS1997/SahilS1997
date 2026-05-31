@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="12" fill="url(#g)"/>
+  <g font-family="Inter, Roboto, Arial, sans-serif" fill="#fff">
+    <text x="60" y="92" font-size="48" font-weight="700">SahilS1997</text>
+    <text x="60" y="140" font-size="20" opacity="0.92">Code • Learn • Build</text>
+  </g>
+  <g transform="translate(980,40)">
+    <rect x="0" y="0" width="180" height="160" rx="8" fill="#ffffff22"/>
+    <text x="12" y="92" font-family="Inter, Roboto, Arial, sans-serif" font-size="16" fill="#fff">Open to opportunities</text>
+  </g>
+</svg>
