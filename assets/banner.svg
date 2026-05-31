@@ -1,17 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0" stop-color="#06b6d4"/>
-      <stop offset="1" stop-color="#7c3aed"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="500" y2="0">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="240" rx="12" fill="url(#g)"/>
-  <g font-family="Inter, Roboto, Arial, sans-serif" fill="#fff">
-    <text x="60" y="92" font-size="48" font-weight="700">SahilS1997</text>
-    <text x="60" y="140" font-size="20" opacity="0.92">Code • Learn • Build</text>
+
+  <!-- Background -->
+  <rect width="1280" height="320" rx="0" fill="url(#bg)"/>
+
+  <!-- Decorative Grid -->
+  <g opacity="0.08">
+    <path d="M0 80H1280M0 160H1280M0 240H1280" stroke="#ffffff"/>
+    <path d="M160 0V320M320 0V320M480 0V320M640 0V320M800 0V320M960 0V320M1120 0V320" stroke="#ffffff"/>
   </g>
-  <g transform="translate(980,40)">
-    <rect x="0" y="0" width="180" height="160" rx="8" fill="#ffffff22"/>
-    <text x="12" y="92" font-family="Inter, Roboto, Arial, sans-serif" font-size="16" fill="#fff">Open to opportunities</text>
+
+  <!-- Left Accent -->
+  <rect x="80" y="85" width="6" height="150" rx="3" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="120" y="125"
+        fill="white"
+        font-family="Segoe UI, Inter, Arial, sans-serif"
+        font-size="42"
+        font-weight="700">
+    Sahil Sreedharan
+  </text>
+
+  <!-- Subtitle -->
+  <text x="120" y="165"
+        fill="#C9D1D9"
+        font-family="Segoe UI, Inter, Arial, sans-serif"
+        font-size="20">
+    Data Analytics & Engineering
+  </text>
+
+  <!-- Tech Stack -->
+  <text x="120" y="205"
+        fill="#8B949E"
+        font-family="Segoe UI, Inter, Arial, sans-serif"
+        font-size="18">
+    Microsoft Fabric • Power BI • Azure Synapse • SQL • Python
+  </text>
+
+  <!-- Tagline -->
+  <text x="120" y="245"
+        fill="#8B949E"
+        font-family="Segoe UI, Inter, Arial, sans-serif"
+        font-size="16">
+    Building scalable data platforms, analytics solutions & automation
+  </text>
+
+  <!-- Fabric-inspired nodes -->
+  <g opacity="0.9">
+    <circle cx="980" cy="95" r="12" fill="#0EA5E9"/>
+    <circle cx="1080" cy="140" r="10" fill="#7C3AED"/>
+    <circle cx="1180" cy="95" r="12" fill="#22C55E"/>
+    <circle cx="1030" cy="220" r="11" fill="#F59E0B"/>
+    <circle cx="1150" cy="220" r="10" fill="#EC4899"/>
+
+    <line x1="980" y1="95" x2="1080" y2="140" stroke="#334155" stroke-width="2"/>
+    <line x1="1080" y1="140" x2="1180" y2="95" stroke="#334155" stroke-width="2"/>
+    <line x1="1080" y1="140" x2="1030" y2="220" stroke="#334155" stroke-width="2"/>
+    <line x1="1030" y1="220" x2="1150" y2="220" stroke="#334155" stroke-width="2"/>
+    <line x1="1180" y1="95" x2="1150" y2="220" stroke="#334155" stroke-width="2"/>
   </g>
 </svg>
