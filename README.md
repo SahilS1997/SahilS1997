@@ -1,6 +1,6 @@
 # Sahil Sreedharan | Data Analytics & BI Professional
 
-<div align="center">
+<div align="left">
   
 
   
