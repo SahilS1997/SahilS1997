@@ -3,19 +3,8 @@
 <div align="center">
   
   <!-- Professional Banner -->
-  <img src="assets/banner.svg" alt="Professional Banner" width="100%">
-  
-  <!-- Profile Image Placeholder with Azure Blue -->
-  <svg width="150" height="150" xmlns="http://www.w3.org/2000/svg" style="border-radius: 50%; border: 3px solid #0078D4;">
-    <defs>
-      <linearGradient id="profileGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#0078D4;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#50E6FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <circle cx="75" cy="75" r="75" fill="url(#profileGrad)"/>
-    <text x="75" y="85" font-size="24" fill="white" text-anchor="middle" font-family="Arial" font-weight="bold">SR</text>
-  </svg>
+![Banner](./banner.svg)
+
   
   ### 🎓 Certified Data Analytics Professional | 📊 BI Expert | 🚀 Data Engineer
   
