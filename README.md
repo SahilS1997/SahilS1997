@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  <!-- Professional Banner -->
-![Banner](assets/banner.svg)
 
   
   ### 🎓 Certified Data Analytics Professional | 📊 BI Expert | 🚀 Data Engineer
