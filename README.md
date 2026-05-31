@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Professional Banner -->
-![Banner](./banner.svg)
+![Banner](assets/banner.svg)
 
   
   ### 🎓 Certified Data Analytics Professional | 📊 BI Expert | 🚀 Data Engineer
