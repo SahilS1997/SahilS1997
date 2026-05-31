@@ -3,10 +3,19 @@
 <div align="center">
   
   <!-- Professional Banner -->
-  <img src="https://via.placeholder.com/1200x300/0078D4/FFFFFF?text=Data+Analytics+%26+Business+Intelligence+Expert" alt="Professional Banner" width="100%">
+  <img src="assets/banner.svg" alt="Professional Banner" width="100%">
   
-  <!-- Profile Image -->
-  <img src="https://via.placeholder.com/150/0078D4/FFFFFF?text=Sahil+Sreedharan" alt="Sahil Sreedharan" width="150" height="150" style="border-radius: 50%; border: 3px solid #0078D4;">
+  <!-- Profile Image Placeholder with Azure Blue -->
+  <svg width="150" height="150" xmlns="http://www.w3.org/2000/svg" style="border-radius: 50%; border: 3px solid #0078D4;">
+    <defs>
+      <linearGradient id="profileGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0078D4;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#50E6FF;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <circle cx="75" cy="75" r="75" fill="url(#profileGrad)"/>
+    <text x="75" y="85" font-size="24" fill="white" text-anchor="middle" font-family="Arial" font-weight="bold">SR</text>
+  </svg>
   
   ### 🎓 Certified Data Analytics Professional | 📊 BI Expert | 🚀 Data Engineer
   
@@ -196,6 +205,17 @@ Passionate about staying updated with:
 
 ---
 
-![Footer Banner](https://via.placeholder.com/1200x100/0078D4/FFFFFF?text=Happy+Coding+%7C+Data+Driven+Decisions)
+<svg width="1200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#106EBE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0078D4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#footerGrad)"/>
+  <text x="600" y="60" font-size="28" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial, sans-serif">
+    Happy Coding | Data-Driven Decisions
+  </text>
+</svg>
 
 </div>
