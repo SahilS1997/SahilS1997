@@ -129,13 +129,12 @@ A seasoned **Business Intelligence and Data Analytics expert** with a unique bac
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilS1997&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilS1997&layout=compact&theme=dark&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilS1997&theme=dark)
+<div align="left">
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilS1997&theme=dark)
 
 </div>
 
@@ -171,7 +170,7 @@ Passionate about staying updated with:
 
 ## 📬 Let's Connect
 
-<div align="center">
+<div align="left">
 
 | Platform | Link |
 |----------|------|
@@ -184,7 +183,7 @@ Passionate about staying updated with:
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 🚀 Let's build something amazing with data!
 
